@@ -17,7 +17,7 @@ func main() {
 		flag.PrintDefaults()
 	}
 
-	blocksizePtr := flag.Int("blocksize", 1073741824, "Blocksize in bytes")
+	blocksizePtr := flag.Int64("blocksize", 1073741824, "Blocksize in bytes")
 
 	flag.Parse()
 
@@ -45,7 +45,7 @@ func main() {
 
 	for {
 
-    buf = buf[:0] // zero but keep memory
+    //buf = buf[:0] // zero but keep memory
 		n, err := r.Read(buf) //loading chunk into buffer
 		buf = buf[:n]
 
