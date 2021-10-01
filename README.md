@@ -94,8 +94,8 @@ Distributed under the MIT License. See [LICENSE](https://github.com/StephanieSun
 <!-- CONTACT -->
 ## Contact
 
-Project Link: [https://github.com/StephanieSunshine/shaspider](https://github.com/StephanieSunshine/shaspider)
-Email: [Gmail](mailto:ponyosunshine@gmail)
+* Project Link: [https://github.com/StephanieSunshine/shaspider](https://github.com/StephanieSunshine/shaspider)
+* Email: [Gmail](mailto:ponyosunshine)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
