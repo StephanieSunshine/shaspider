@@ -45,6 +45,7 @@ func main() {
 
 	for {
 
+    buf = buf[:0] // zero but keep memory
 		n, err := r.Read(buf) //loading chunk into buffer
 		buf = buf[:n]
 
