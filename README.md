@@ -50,8 +50,7 @@
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+To get a local copy up and running follow these simple example steps. Your result will be either a json array of sha256 checksums split by `blocksize` or an error message.
 
 ### Prerequisites
 
