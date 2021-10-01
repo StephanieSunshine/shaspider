@@ -16,7 +16,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/StephanieSunshine/shaspider">
-    <img src="images/logo.svg" alt="Logo" width="80" height="80">
+    <img src="images/logo.svg" alt="Logo" width="320" height="320">
   </a>
 
   <h3 align="center">Shaspider</h3>
@@ -86,15 +86,16 @@ Contributions are what make the open source community such an amazing place to l
 
 Distributed under the MIT License. See [LICENSE](https://github.com/StephanieSunshine/shaspider/blob/master/LICENSE) for more information.
 
-<!-- CONTACT -->
-## Contact
-
-Project Link: [https://github.com/StephanieSunshine/shaspider](https://github.com/StephanieSunshine/shaspider)
-
 ## Acknowledgements
 
 * [Best Readme Template](https://github.com/othneildrew/Best-README-Template)
 * [Spider Logo](https://thenounproject.com/search/?q=spider&i=2013883)
+
+<!-- CONTACT -->
+## Contact
+
+Project Link: [https://github.com/StephanieSunshine/shaspider](https://github.com/StephanieSunshine/shaspider)
+Email:  [ponyosunshine at gmail](mailto:ponyosunshine at gmail)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
