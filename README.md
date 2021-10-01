@@ -42,6 +42,7 @@
     <li><a href="#usage">Usage</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
+    <li><a href="#acknowledgements">Acknowledgements</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
@@ -90,7 +91,10 @@ Distributed under the MIT License. See [LICENSE](https://github.com/StephanieSun
 
 Project Link: [https://github.com/StephanieSunshine/shaspider](https://github.com/StephanieSunshine/shaspider)
 
+## Acknowledgements
+
 * [Best Readme Template](https://github.com/othneildrew/Best-README-Template)
+* [Spider Logo](https://thenounproject.com/search/?q=spider&i=2013883)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
